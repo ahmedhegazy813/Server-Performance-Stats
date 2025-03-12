@@ -19,7 +19,6 @@ chmod +x system-monitor.sh
 ```
 
 ## **Project URL**
-https://github.com/ahmedhegazy813/Server-Performance-Stats
-
+https://roadmap.sh/projects/server-stats
 
 
