@@ -1,21 +1,21 @@
-# Server-Performance-Stats
- System Monitoring Script  
-This script provides system resource usage details, including:  
-- CPU usage (`mpstat`)  
-- Memory usage (`free -m`)  
-- Disk usage (`df -h`)  
-- Top 5 CPU-consuming processes  
-- Top 5 memory-consuming processes  
+# Server Performance Stats  
 
-## Usage  
-1. **Give execution permission:**  
-   ```bash
-   chmod +x server-stutes.sh
- 2.  Run the script:
+This Bash script provides key server performance statistics, including:  
+✅ CPU usage  
+✅ Memory usage  
+✅ Disk space usage  
+✅ Top 5 CPU-consuming processes  
+✅ Top 5 memory-consuming processes  
 
- ./server-stutes.sh
+## 📌 Usage  
+### 1️⃣ **Give Execution Permission**  
+```bash
+chmod +x system-monitor.sh
 
 
+## 2️⃣ Run the Script
+
+./system-monitor.sh
 
 ## project URL
 https://github.com/ahmedhegazy813/Server-Performance-Stats.git
