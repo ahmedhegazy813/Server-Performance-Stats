@@ -13,3 +13,5 @@ This script provides system resource usage details, including:
    chmod +x server-stutes.sh
  2.  Run the script:
     ./server-stutes.sh
+#project URL
+https://github.com/ahmedhegazy813/Server-Performance-Stats.git
